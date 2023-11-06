@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Observatorio-de-Matematica
 - 👀 I’m interested in mathematics
 - 🌱 I’m currently learning Maxima https://maxima.sourceforge.io/index.html
-- 💞️ I’m looking to collaborate on mathematic and coding
+- 💞️ I’m looking to collaborate on mathematics and coding
 - 📫 How to reach me ...
 
 <!---
