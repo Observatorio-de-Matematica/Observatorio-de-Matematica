@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on mathematics and coding
 - 📫 How to reach me ...
 
-## 🔨 Languages & Frameworks & Skills ⭐️:
-![Maxima](https://maxima.sourceforge.io/index.html)
+<br>
+<h1 align="Center">Languages</h1>
+<br>
+
+<a href='https://sourceforge.net/projects/maxima/'><img src='https://img.shields.io/badge/-Maxima-FFDF18?style=for-the-badge' alt='Maxima' /></a>
 
 <!---
 Observatorio-de-Matematica/Observatorio-de-Matematica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
