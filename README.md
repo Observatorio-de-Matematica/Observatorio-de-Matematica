@@ -9,7 +9,7 @@
 <br>
 
 <div align="Center">
-<a href='https://sourceforge.net/projects/maxima/'><img src='https://img.shields.io/badge/-Maxima-D80B21?style=for-the-badge' alt='Maxima' /></a>
+<a href='https://maxima.sourceforge.io/index.html'><img src='https://img.shields.io/badge/-Maxima-D80B21?style=for-the-badge' alt='Maxima' /></a>
 </div>
 
 <!---
