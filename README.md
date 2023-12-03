@@ -8,19 +8,33 @@
 “...If there was any "sin," it was that these people wanted to keep on having a good time forever, and were punished for that, but, as I say, I feel that, if so, the punishment was far too great, and I prefer to think of it only in a Greek or morally neutral way, as mere science, as deterministic impartial cause-and-effect. I loved them all. Here is the list, to whom I dedicate my love:
 
 To Gaylene deceased
+
 To Ray deceased
+
 To Francy permanent psychosis
+
 To Kathy permanent brain damage
+
 To Jim deceased
+
 To Val massive permanent brain damage
+
 To Nancy permanent psychosis
+
 To Joanne permanent brain damage
+
 To Maren deceased
+
 To Nick deceased
+
 To Terry deceased
+
 To Dennis deceased
+
 To Phil permanent pancreatic damage
+
 To Sue permanent vascular damage
+
 To Jerri permanent psychosis and vascular damage
 
 . . . and so forth.
