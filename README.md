@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics
 - 🌱 I’m currently learning Maxima https://maxima.sourceforge.io/index.html
 - 💞️ I’m looking to collaborate on mathematics and coding
-- 📫 How to reach me ...
+- 📫 How to reach me ... through the Maxima mailing list (https://sourceforge.net/p/maxima/mailman/).
 
 <br>
 “...If there was any "sin," it was that these people wanted to keep on having a good time forever, and were punished for that, but, as I say, I feel that, if so, the punishment was far too great, and I prefer to think of it only in a Greek or morally neutral way, as mere science, as deterministic impartial cause-and-effect. I loved them all. Here is the list, to whom I dedicate my love:
