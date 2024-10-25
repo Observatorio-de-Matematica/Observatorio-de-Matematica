@@ -51,6 +51,9 @@ These were comrades whom I had; there are no better. They remain in my mind, and
 <a href='https://maxima.sourceforge.io/index.html'><img src='https://img.shields.io/badge/-Maxima-D80B21?style=for-the-badge' alt='Maxima' /></a>
 </div>
 
+![image](https://github.com/user-attachments/assets/8ce92859-a319-4080-8035-c826cf2ecccc)
+
+
 <!---
 Observatorio-de-Matematica/Observatorio-de-Matematica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
